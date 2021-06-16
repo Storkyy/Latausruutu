@@ -79,8 +79,8 @@ a:hover {
 
 .page-bg {
   background-size: hidden;
-  background-image: url("https://imgur.com/POX9iuU.png"); // Kuva tähän muistkaa loppuun .png
-  background-size: 40%; // koko
+  background-image: url("https://imgur.com/POX9iuU.png");
+  background-size: 40%;
   background-repeat: no-repeat;
   z-index: -1;
   background-position: center;
