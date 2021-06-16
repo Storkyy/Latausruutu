@@ -79,7 +79,7 @@ a:hover {
 
 .page-bg {
   background-size: hidden;
-  background-image: url("https://imgur.com/POX9iuU.png"); //kuva loppuun .png
+  background-image: url("https://imgur.com/POX9iuU.png"); #logo tähän
   background-size: 40%; //kuva
   background-repeat: no-repeat;
   z-index: -1;
